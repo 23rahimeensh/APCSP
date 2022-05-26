@@ -1,0 +1,59 @@
+.b{
+	background-color: #98AFC7;
+}
+.p{
+	font-family: monospace; 
+	color: #D5D6EA;
+  font-size: 18px;
+}
+.image{
+	width: 15%;
+	float: center;
+	padding-left: 15px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #353;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #368BC1;
+  color: gray;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #FFC0CB;
+  color: black;
+}
+
+.img {
+  border-radius: 50%;
+  width:15%;
+}
+
+.violinimg{
+  width: 15%;
+  border-radius: 50%
+}
+
+.contactimg{
+  width: 15%;
+  border-radius: 70%
+}
+
+
+
